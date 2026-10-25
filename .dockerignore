@@ -1,0 +1,5 @@
+.git
+node_modules
+.env
+data/marks.json
+lib/data/marks.json

@@ -1,0 +1,6 @@
+node_modules/
+data/marks.json
+.env
+.DS_Store
+
+lib/data/marks.json
